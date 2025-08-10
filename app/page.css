@@ -1,0 +1,10 @@
+@media screen and (max-width: 439px) {
+    .calculator {
+        min-width: 100vw;
+    } 
+
+    .buttons {
+        padding: 1px;
+        margin-top: 10px;
+    }
+}
