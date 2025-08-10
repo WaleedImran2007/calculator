@@ -23,3 +23,5 @@ A simple and user-friendly calculator app built with JavaScript (or React, or wh
 
 ## Live Preview
 
+(Live Demo)[https://calculator-rho-ten-81.vercel.app/]
+
