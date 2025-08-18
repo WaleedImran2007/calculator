@@ -1,6 +1,6 @@
 # Calculator App
 
-A simple and user-friendly calculator app built with JavaScript (or React, or whatever tech you used). It supports basic arithmetic operations such as addition, subtraction, multiplication, and division. Designed for quick calculations with an intuitive interface.
+A simple and user-friendly calculator app built with Next Js. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division && complex functions too like factorial, power, trigonometric functions, log etc. Designed for quick calculations with an intuitive interface.
 
 ## Features
 
